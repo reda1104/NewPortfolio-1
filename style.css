@@ -76,7 +76,7 @@ section{
 .main-btn{
     text-decoration: none;
     color: #fff;
-    background-color: var(--main-blue);
+    background-color: red;
     font-size: 1.1em;
     font-weight: 600;
     display: inline-block;
